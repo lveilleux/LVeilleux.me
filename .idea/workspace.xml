@@ -26,10 +26,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="158" column="0" lean-forward="true" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+            <state relative-caret-position="587">
+              <caret line="150" column="75" lean-forward="false" selection-start-line="150" selection-start-column="75" selection-end-line="150" selection-end-column="75" />
               <folding>
-                <element signature="e#5901#5908#0" expanded="true" />
+                <element signature="e#6385#6392#0" expanded="true" />
+                <element signature="e#7032#7039#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -230,7 +231,7 @@
       <workItem from="1479176698428" duration="937000" />
       <workItem from="1479177649603" duration="19000" />
       <workItem from="1479182781732" duration="190000" />
-      <workItem from="1479183372662" duration="198000" />
+      <workItem from="1479183372662" duration="815000" />
     </task>
     <task id="LOCAL-00001" summary="Added in Chroma Creator image to carousel on index page">
       <created>1479177135743</created>
@@ -253,11 +254,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479183397707</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reverted index">
+      <created>1479183580371</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1479183580371</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2760000" />
+    <option name="totallyTimeSpent" value="3377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2582" height="1402" extended-state="6" />
@@ -305,7 +313,8 @@
     <MESSAGE value="Added in Chroma Creator image to carousel on index page" />
     <MESSAGE value="Added chroma creator image" />
     <MESSAGE value="Fixed index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed index.html" />
+    <MESSAGE value="reverted index" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverted index" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -317,7 +326,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5901#5908#0" expanded="true" />
+            <element signature="e#6385#6392#0" expanded="true" />
+            <element signature="e#7032#7039#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -335,7 +345,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5901#5908#0" expanded="true" />
+            <element signature="e#6385#6392#0" expanded="true" />
+            <element signature="e#7032#7039#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -353,7 +364,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5901#5908#0" expanded="true" />
+            <element signature="e#6385#6392#0" expanded="true" />
+            <element signature="e#7032#7039#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -371,7 +383,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5901#5908#0" expanded="true" />
+            <element signature="e#6385#6392#0" expanded="true" />
+            <element signature="e#7032#7039#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -389,7 +402,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5901#5908#0" expanded="true" />
+            <element signature="e#6385#6392#0" expanded="true" />
+            <element signature="e#7032#7039#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -407,7 +421,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5901#5908#0" expanded="true" />
+            <element signature="e#6385#6392#0" expanded="true" />
+            <element signature="e#7032#7039#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -417,7 +432,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5901#5908#0" expanded="true" />
+            <element signature="e#6385#6392#0" expanded="true" />
+            <element signature="e#7032#7039#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -447,10 +463,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="158" column="0" lean-forward="true" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+        <state relative-caret-position="587">
+          <caret line="150" column="75" lean-forward="false" selection-start-line="150" selection-start-column="75" selection-end-line="150" selection-end-column="75" />
           <folding>
-            <element signature="e#5901#5908#0" expanded="true" />
+            <element signature="e#6385#6392#0" expanded="true" />
+            <element signature="e#7032#7039#0" expanded="true" />
           </folding>
         </state>
       </provider>
